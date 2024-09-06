@@ -1,0 +1,131 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ComputerEngineer(70)\HK5(2023)\CE213-HDL(4)\PRACTICE\Lab45\simulation\modelsim
+vALU
+IE;>aD;jf0cznB53HCgZCz3
+VQa^YZMAz_3VA>[o2NmKTV1
+Z1 dD:\ComputerEngineer(70)\HK5(2023)\CE213-HDL(4)\PRACTICE\Lab45\simulation\modelsim
+w1700241449
+8D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/ALU.v
+FD:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/ALU.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45 -O0
+n@a@l@u
+!i10b 1
+!s100 abjl[d9AYi[7I9[JlLk740
+!s85 0
+!s108 1700557571.256000
+!s107 D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/ALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45|D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/ALU.v|
+!s101 -O0
+vDataMemory
+I6YnZk1l:]g>Gz_Pd3_KB83
+V:BeR81f6QW:@ieb5Gh=IG2
+R1
+w1700537638
+8D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/DataMemory.v
+FD:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/DataMemory.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@data@memory
+!i10b 1
+!s100 nZ]=KbmKN4AF;Am_ALkX_2
+!s85 0
+!s108 1700557571.507000
+!s107 D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/DataMemory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45|D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/DataMemory.v|
+!s101 -O0
+vMIPS_datapath
+I;8nIA^WkJao^_odbDW=Kd3
+V2RYG2S4;16oU[DgQDUN_V2
+R1
+w1700541987
+8D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/MIPS_datapath.v
+FD:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/MIPS_datapath.v
+L0 1
+R2
+r1
+31
+R3
+n@m@i@p@s_datapath
+R4
+!i10b 1
+!s100 0BmD[UCFgVPnV8M?PAH3W1
+!s85 0
+!s108 1700557571.186000
+!s107 D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/MIPS_datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45|D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/MIPS_datapath.v|
+!s101 -O0
+vMIPSdatapath_testbench
+!i10b 1
+!s100 O6Z@bUR<lKX>9=d?AZWZf0
+I7Fj3Zf_@SP;6l2dFZkZNM1
+V0AD`fKV^@7=03^nLnED3a3
+R1
+w1700557474
+8D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/MIPSdatapath_testbench.v
+FD:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/MIPSdatapath_testbench.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1700557571.580000
+!s107 D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/MIPSdatapath_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45|D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/MIPSdatapath_testbench.v|
+!s101 -O0
+R3
+R4
+n@m@i@p@sdatapath_testbench
+vRegister
+InebEj32V^RDJ7cYI5;WEm0
+VP7k>9S`X4MjNZK]oRW2BB0
+R1
+w1700479894
+8D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/Register.v
+FD:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/Register.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@register
+!i10b 1
+!s100 JD0EE@ZBXJ_Z^VThLcVZ21
+!s85 0
+!s108 1700557571.419000
+!s107 D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/Register.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45|D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/Register.v|
+!s101 -O0
+vSign_extend
+IP3OS^U7h1KQJb0[HRCj^c2
+VOC0XfB3edn;n`X;HnPl?a0
+R1
+w1700305086
+8D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/Sign_extend.v
+FD:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/Sign_extend.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@sign_extend
+!i10b 1
+!s100 L>kdYi4YNn<0?F7C6HVcB2
+!s85 0
+!s108 1700557571.348000
+!s107 D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/Sign_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45|D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/Sign_extend.v|
+!s101 -O0

@@ -1,0 +1,22 @@
+module Register(
+// port declac
+	input [4:0] RR1, RR2, WR,
+	input RegWrite, clk,
+	input [31:0] RD,
+	output [31:0] RD1, RD2
+);
+	reg [4:0] RegMem[31:0];
+// logical
+	always @(posedge clk)
+	begin
+		if (RegWrite)
+			begin
+				RegMem[WR] <= RD;
+			end
+	end
+	always @(*)
+	begin
+		RD1 <= RegMem[RR1];
+		RD2 <= RegMem[RR2];
+	end
+endmodule

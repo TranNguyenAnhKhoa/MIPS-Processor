@@ -1,0 +1,9 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45 {D:/ComputerEngineer(70)/HK5(2023)/CE213-HDL(4)/PRACTICE/Lab45/ALU.v}
+

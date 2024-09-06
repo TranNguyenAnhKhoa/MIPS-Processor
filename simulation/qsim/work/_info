@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ComputerEngineer(70)\HK5(2023)\CE213-HDL(4)\PRACTICE\Lab45\simulation\qsim
+vRegister
+Z1 I7azUenW5cTX0dHMRnlG6C0
+Z2 VP7k>9S`X4MjNZK]oRW2BB0
+Z3 dD:\ComputerEngineer(70)\HK5(2023)\CE213-HDL(4)\PRACTICE\Lab45\simulation\qsim
+Z4 w1700475227
+Z5 8MIPS_datapath.vo
+Z6 FMIPS_datapath.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@register
+!i10b 1
+Z10 !s100 NcI04[;5M>b48O7K;@41H2
+!s85 0
+Z11 !s108 1700475228.485000
+Z12 !s107 MIPS_datapath.vo|
+Z13 !s90 -work|work|MIPS_datapath.vo|
+!s101 -O0
+vRegister_vlg_check_tst
+!i10b 1
+!s100 ^;BPZ6TLk]g?E1U]C;hn<0
+IABJgMDZJ]2Wn1jSWiVlmo3
+V817N4N^l[;TYe<iiAD1lc1
+R3
+Z14 w1700475226
+Z15 8MIPS_datapath.vt
+Z16 FMIPS_datapath.vt
+L0 67
+R7
+r1
+!s85 0
+31
+Z17 !s108 1700475228.818000
+Z18 !s107 MIPS_datapath.vt|
+Z19 !s90 -work|work|MIPS_datapath.vt|
+!s101 -O0
+R8
+n@register_vlg_check_tst
+vRegister_vlg_sample_tst
+!i10b 1
+!s100 YGnj?G@RzF=CRgonD3b>i2
+IAz63E40X6_1GfLddfOj=P1
+VY2gc;fD[:B[K7B[6@Vjn>3
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@register_vlg_sample_tst
+vRegister_vlg_vec_tst
+!i10b 1
+!s100 _eY5A`VReg;[h`>NfH2863
+IRT:i0WQSzjFZFRjL70m`j2
+V@[ICB;WN_MIiF6NK8^ha:3
+R3
+R14
+R15
+R16
+L0 1303
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@register_vlg_vec_tst

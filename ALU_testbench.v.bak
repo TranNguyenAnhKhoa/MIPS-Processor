@@ -1,0 +1,13 @@
+module ALU_testbench();
+	reg[31:0] a=32'd37, b=32'd25;
+	reg [2:0] sel;
+	
+	wire [31:0] result;
+	wire ov;
+	ALU au(a, b, sel, ALU_result, z_flags);
+	
+	initial begin
+		#20
+	end
+	
+endmodule
